@@ -2,7 +2,7 @@
 
 ## Server-side script for web monitoring with telegram notification
 
-Small linux server-side script to check whether a site of interest has updated its page.
+Small linux server-side script to check if a site of interest has updated its page.
 
 The script sends notifications with your telegram bot!
 
