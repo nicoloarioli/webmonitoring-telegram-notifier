@@ -1,6 +1,6 @@
 # Webmonitor with Telegram notification
 
-##server-side script for web monitoring with telegram notification
+## Server-side script for web monitoring with telegram notification
 
 Small linux server-side script to check whether a site of interest has updated its page.
 
